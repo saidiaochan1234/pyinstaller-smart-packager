@@ -20,6 +20,11 @@ dist/
 *.bak
 PyToExe_Logs/
 
+# Local presentation/sponsorship assets.
+使用截图.png
+打包LOGO.ico
+赞助支付宝.jpg
+
 # Windows metadata.
 Thumbs.db
 Desktop.ini
