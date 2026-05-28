@@ -1,0 +1,25 @@
+.codegraph/
+backups/
+ceshi/
+
+# Python cache and virtual environments.
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# PyInstaller outputs.
+build/
+dist/
+*.spec
+
+# Logs and local scratch files.
+*.log
+*.tmp
+*.bak
+PyToExe_Logs/
+
+# Windows metadata.
+Thumbs.db
+Desktop.ini
