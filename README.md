@@ -4,7 +4,7 @@
 
 ## 运行截图
 
-<img src="https://github.com/saidiaochan1234/pyinstaller-smart-packager/releases/download/readme-assets/usage-screenshot.png" alt="PyInstaller 智能打包运行截图" width="560">
+<img src="https://raw.githubusercontent.com/saidiaochan1234/pyinstaller-smart-packager/media/usage-screenshot.png" alt="PyInstaller 智能打包运行截图" width="560">
 
 ## 智能在哪里
 
@@ -72,4 +72,4 @@ python .\PyInstaller智能打包.pyw
 
 ## 开源赞助
 
-<img src="https://github.com/saidiaochan1234/pyinstaller-smart-packager/releases/download/readme-assets/alipay-sponsor.jpg" alt="支付宝赞助二维码" width="280">
+<img src="https://raw.githubusercontent.com/saidiaochan1234/pyinstaller-smart-packager/media/alipay-sponsor.jpg" alt="支付宝赞助二维码" width="280">
